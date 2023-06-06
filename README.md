@@ -1,24 +1,17 @@
 # cars-manager-front
 
-## Project setup
-```
-npm install
-```
+## 1 - Baixar o repositório:
+```git clone git@github.com:natan1563/cars-manager-front.git```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 2 - Instalar as dependências do projeto:
+```npm i```
+- Obs: Projeto desenvolvido em node v16.15.0
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 3 - Gerar um arquivo .env:
+```cp .env.example .env```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 4 - Certifique-se de que a API está rodando corretamente.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 5 - Em seu terminal rode o comando ```npm run dev```
+
+## 7 - Acesse o endereço exposto no seu terminal, provavelmente será: ```http://localhost:8080```
